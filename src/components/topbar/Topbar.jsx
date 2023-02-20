@@ -21,7 +21,7 @@ export default function Topbar() {
             <Settings />
           </div>
           <img
-            src="https://www.pngkey.com/png/full/114-1149878_setting-user-avatar-in-specific-size-without-breaking.png"
+            src="https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745"
             alt=""
             className="topAvatar"
           />
